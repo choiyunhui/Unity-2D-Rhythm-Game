@@ -1,7 +1,7 @@
 # Unity-2D-Rhythm-Game
 Unity로 개발한 2D Rhythm Game
 
-#1 ppt 첫화면
+#1 ppt 첫화면<br/>
 <img width="375" alt="1" src="https://user-images.githubusercontent.com/55097421/145033284-eb44d9eb-aefe-4174-8659-47ec1fac062e.png">
 
 #2 사용프로그램
